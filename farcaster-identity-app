@@ -1,0 +1,7 @@
+/farcaster-identity-app
+├── db.json
+├── package.json
+├── pages/
+    ├── api/
+    │    └── vote.js
+    └── index.js
